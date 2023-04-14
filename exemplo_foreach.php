@@ -1,8 +1,8 @@
 <?php
     #Exemplo de código Foreach
-    $frutas = array("maçã", "banana", "laranja", "manga");
+    $carros = array("Porsche", "Ferrari", "Lamborghini", "Audi");
 
-    foreach ($frutas as $fruta) {
-        echo $fruta . "<br>";
+    foreach ($carros as $carro) {
+        echo $carro . "<br>";
     }
 ?>
